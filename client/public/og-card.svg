@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fbf4ea"/>
+  <circle cx="930" cy="110" r="240" fill="#f2e4d2" opacity=".72"/>
+  <circle cx="1030" cy="570" r="210" fill="#f5e0df" opacity=".8"/>
+  <rect x="72" y="70" width="1056" height="490" rx="28" fill="#fffdf9" stroke="#e7b15a" stroke-width="4"/>
+  <circle cx="270" cy="315" r="144" fill="#fffdf9" stroke="#9d1d35" stroke-width="8"/>
+  <circle cx="270" cy="315" r="131" fill="none" stroke="#e7b15a" stroke-width="3"/>
+  <text x="270" y="266" fill="#9d1d35" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" letter-spacing="5">BAKED WITH</text>
+  <text x="270" y="326" fill="#9d1d35" font-family="Georgia, serif" font-size="43" font-weight="700" text-anchor="middle">Thandi's</text>
+  <text x="270" y="369" fill="#9d1d35" font-family="Georgia, serif" font-size="36" text-anchor="middle">Treats</text>
+  <text x="270" y="407" fill="#9d1d35" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="3">♥ LOVE</text>
+  <text x="500" y="225" fill="#9d1d35" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="6">THANDI'S TREATS</text>
+  <text x="500" y="330" fill="#4b2d23" font-family="Georgia, serif" font-size="68" font-weight="700">Baked with</text>
+  <text x="500" y="405" fill="#9d1d35" font-family="Georgia, serif" font-size="68" font-style="italic" font-weight="700">love.</text>
+  <text x="500" y="466" fill="#7d6257" font-family="Arial, sans-serif" font-size="23">Leave a review or book your next treat moment.</text>
+</svg>
